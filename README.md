@@ -101,4 +101,4 @@ If RViz or the MoveIt Setup Assistant fails to start after a recent Humble updat
 Mechanical design adapted from an open SCARA model on [Cults3D](https://cults3d.com/en/3d-model/gadget/scara-robot-arm), with the HowToMechatronics SCARA as reference. [`pymoveit2`](https://github.com/AndrejOrsula/pymoveit2) by Andrej Orsula (BSD-3-Clause) is vendored in `pymoveit2/`.
 
 ---
-[Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [MechaMind Labs](https://www.mechamindlabs.com/)
+[Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [MechaMind Labs](https://github.com/MechaMind-Labs)
